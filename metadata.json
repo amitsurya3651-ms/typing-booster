@@ -1,0 +1,6 @@
+{
+  "name": "Typing Master",
+  "description": "Step-by-step touch typing practice tutor with interactive keyboard, finger guidance, speed tests, weak key analysis, and dual English/Hindi instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
